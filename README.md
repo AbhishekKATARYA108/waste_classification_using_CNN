@@ -1,6 +1,7 @@
 #CNN Model for Waste Management
 
 A deep learning-based approach to classify waste into different categories using Convolutional Neural Networks (CNNs).
+Dataset:https://www.kaggle.com/datasets/techsash/waste-classification-data
 
 Overview
 
